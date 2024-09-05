@@ -28,13 +28,13 @@ const HeroSection = () => {
           transition={{ duration: 1 }}
           className="text-5xl md:text-8xl font-bold text-white mb-4 md:mb-6 tracking-tight"
         >
-        صدفه
+        صدفه 
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 1 }}
-          className="text-xl md:text-3xl text-yellow-400 mb-4 md:mb-8 font-semibold"
+          className="text-xl md:text-3xl text-yellow-600 mb-4 md:mb-8 font-semibold"
         >
           تجربة مقهي لا مثيل لها
         </motion.p>
