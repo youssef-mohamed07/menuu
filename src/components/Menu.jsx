@@ -265,7 +265,7 @@ const menuCategories = [
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
             >
-                {greeting}، مرحباً بكم في قائمة مقهى صدفة
+                {greeting}، مرحباً بكم في قائمة مقهى صدفه
             </motion.h1>
 
             {/* Category selector (dropdown on mobile, tabs on larger screens) */}
